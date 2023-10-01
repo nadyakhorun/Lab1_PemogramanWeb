@@ -92,14 +92,18 @@ Body bgcolor yaitu untuk menambahkan warna di background web, sedangkan padding 
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
     
-   Jawab: _blank : Ketika target="_blank" digunakan, tautan akan membuka halaman yang ditautkan dalam tab atau jendela browser baru, terpisah dari halaman asal. Ini berguna ketika Anda ingin menjaga 
-                   pengguna tetap di halaman asal dan membuka tautan eksternal atau tautan yang tidak ingin menggantikan halaman asal.
-          _self  : Ini adalah nilai default untuk atribut target. Ketika target="_self" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab yang sama di mana halaman asal berada. Ini
-                   berarti halaman asal akan digantikan dengan halaman yang baru.
-          _top   : Ketika target="_top" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal 
-                   ada 
-                   dalam bingkai (frame), tautan akan membuka halaman baru di luar bingkai tersebut.
-         _parent : target="_parent" digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi 
-                   tautan tersebut.
+   Jawab:
+
+   a. _blank : Ketika target="_blank" digunakan, tautan akan membuka halaman yang ditautkan dalam tab atau jendela browser baru, terpisah dari halaman asal. Ini berguna ketika Anda ingin menjaga 
+               pengguna tetap di halaman asal dan membuka tautan eksternal atau tautan yang tidak ingin menggantikan halaman asal.
+   
+   b. _self  : Ini adalah nilai default untuk atribut target. Ketika target="_self" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab yang sama di mana halaman asal berada. 
+               Ini berarti halaman asal akan digantikan dengan halaman yang baru.
+   
+   c. _top   : Ketika target="_top" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal 
+               ada dalam bingkai (frame), tautan akan membuka halaman baru di luar bingkai tersebut.
+   
+   d. _parent : target="_parent" digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi 
+                tautan tersebut.
 
 # Sekian, Terima Kasih.
