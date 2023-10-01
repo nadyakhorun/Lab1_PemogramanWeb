@@ -67,29 +67,37 @@ untuk memformat text menggunakan tag bold, italic, untuk marked text, dan sebaga
 ![awal13](https://github.com/nadyakhorun/Lab1_PemogramanWeb/assets/115801823/e1b631ac-d91d-4d49-9f99-f9844e2034ff)
 
 Yang terakhir adalah kode dan tampilan setelah saya ubah.
+
 Body bgcolor yaitu untuk menambahkan warna di background web, sedangkan padding untuk menata letak pada halaman web agar terlihat rapi.
 
 ![akhir](https://github.com/nadyakhorun/Lab1_PemogramanWeb/assets/115801823/d706b0a4-fae6-4872-8b35-b4f010b2362d)
 
 # Soal
+
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+   
    Jawab: Ya, karena kesalahan penulisan tag dalam html dapat menyebabkan error dalam halaman web.
 
 2. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
+   
    Jawab: Tag <p benar-benar digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman. Sedangkan tag <br hanya digunakan untuk mengganti baris.
 
 3. Apa perbedaan atribut title dan alt pada tag <img, berikan penjelasannya!
+   
    Jawab: Alt adalah atribut yang ditambahkan ke tag gambar dalam HTML.Sedangkan Title adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML.
 
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+   
    Jawab: Untuk mengatur ukuran gambar dalam HTML, dapat menggunakan atribut width (lebar) dan height (tinggi). Agar tampilan gambar tetap proporsional, sebaiknya mengisi hanya salah satu dari kedua                atribut tersebut, biasanya width atau height, sementara yang lainnya akan dihitung secara otomatis oleh browser.
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+    
    Jawab: _blank : Ketika target="_blank" digunakan, tautan akan membuka halaman yang ditautkan dalam tab atau jendela browser baru, terpisah dari halaman asal. Ini berguna ketika Anda ingin menjaga 
                    pengguna tetap di halaman asal dan membuka tautan eksternal atau tautan yang tidak ingin menggantikan halaman asal.
           _self  : Ini adalah nilai default untuk atribut target. Ketika target="_self" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab yang sama di mana halaman asal berada. Ini
                    berarti halaman asal akan digantikan dengan halaman yang baru.
-          _top   : Ketika target="_top" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal ada 
+          _top   : Ketika target="_top" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal 
+                   ada 
                    dalam bingkai (frame), tautan akan membuka halaman baru di luar bingkai tersebut.
          _parent : target="_parent" digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi 
                    tautan tersebut.
