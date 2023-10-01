@@ -6,7 +6,11 @@ Nama : Nadya Khairunnisa
 
 Nim : 312210133
 
-Kelas : TI.22.A1
+Kelas : TI.22.A.1
+
+# Definisi HTML
+
+Hypertest Markup Language atau disebut dengan HTML merupakan bahasa komputer yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi didalam sebuah browser.
 
 # Langkah-Langkah
 
